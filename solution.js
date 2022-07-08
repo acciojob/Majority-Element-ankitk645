@@ -1,6 +1,7 @@
 // arr = array of numbers
 function major(arr)
 {
-  //your code here
+  arr.sort();
+  return arr[n/2];
 }
 module.exports=major;
